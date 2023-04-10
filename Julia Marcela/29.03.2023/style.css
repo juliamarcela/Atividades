@@ -1,0 +1,22 @@
+.títuloPrincipal{
+    background-color: darkgreen; 
+    color: white;
+    text-align: center;
+}
+.títuloPrincipal2{
+    background-color: rgb(97, 112, 71);
+    color: white;
+    text-align: right;
+}
+.justificado{
+    text-align: justify;
+}
+a{
+    text-decoration: none;
+    color: darkslategray;
+}
+
+a:hover{
+    color: lightseagreen;
+    text-decoration-line: underline
+}
